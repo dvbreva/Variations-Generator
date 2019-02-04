@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Variationss\VariationsAlgorithm\bin\Debug\VariationsAlgorithm.exe
+c:\users\user\source\repos\Variationss\VariationsAlgorithm\bin\Debug\VariationsAlgorithm.pdb
+c:\users\user\source\repos\Variationss\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Variationss\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.exe
+c:\users\user\source\repos\Variationss\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.pdb
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsAlgorithm\bin\Debug\VariationsAlgorithm.exe
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsAlgorithm\bin\Debug\VariationsAlgorithm.pdb
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.csprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.exe
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsAlgorithm\obj\Debug\VariationsAlgorithm.pdb

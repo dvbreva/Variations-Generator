@@ -1,0 +1,18 @@
+c:\users\user\source\repos\Variationss\VariationsGUI\bin\Debug\VariationsGUI.exe
+c:\users\user\source\repos\Variationss\VariationsGUI\bin\Debug\VariationsGUI.pdb
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.Form1.resources
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.Properties.Resources.resources
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.csproj.GenerateResource.Cache
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.exe
+c:\users\user\source\repos\Variationss\VariationsGUI\obj\Debug\VariationsGUI.pdb
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\bin\Debug\VariationsGUI.exe
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\bin\Debug\VariationsGUI.pdb
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.csprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.Form1.resources
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.Properties.Resources.resources
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.csproj.GenerateResource.Cache
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.exe
+D:\Users\user\Desktop\variations raboti gore dolu\VariationsGUI\obj\Debug\VariationsGUI.pdb
